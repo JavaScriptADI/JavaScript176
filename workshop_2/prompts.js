@@ -1,0 +1,1 @@
+console.log(`Hello ${prompt("What's your name?")}`);
