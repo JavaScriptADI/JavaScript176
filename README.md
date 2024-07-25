@@ -11,7 +11,7 @@
 
 - [Assignment 1](https://classroom.github.com/a/-JKjcbpO)
 - [Assignment 2](https://classroom.github.com/a/JtFVsw6f)
-
+- [Assignment 3](https://classroom.github.com/a/MlY9qF9M)
 
 
 ### Table of Contents
