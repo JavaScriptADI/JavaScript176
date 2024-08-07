@@ -3,7 +3,7 @@ const firstNames = ['John', 'Jane', 'Jack', 'Jill', 'James', 'Jimmy', 'James'];
 for (let i = 0; i < firstNames.length; i++) {
     console.log(firstNames[i]);
 }
-// console.log(firstNames[0]);
+// console.log(firstNames[0]);f
 // console.log(firstNames[1]);
 // console.log(firstNames[2]);
 // console.log(firstNames[3]);
