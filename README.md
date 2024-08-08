@@ -13,7 +13,7 @@
 - [Assignment 2](https://classroom.github.com/a/JtFVsw6f)
 - [Assignment 3](https://classroom.github.com/a/MlY9qF9M)
 - [Assignment 4](https://classroom.github.com/a/Vva3nven)
-- [Assignment 5](https://classroom.github.com/a/7Hi4U0-q) (გამოტოვეთ ეს ჯერ)
+- [Assignment 5](https://classroom.github.com/a/7Hi4U0-q) (მიმდინარე დავალება)
 - [Assignment 6](https://classroom.github.com/a/roN3yXto)
 
 ### Table of Contents
