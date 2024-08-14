@@ -1,6 +1,7 @@
 // Data Structure: Object
 // Example 1
 const person = {
+    // object is key: value pairs
     name: "Alice",
     age: 30,
 };
@@ -8,6 +9,7 @@ const person = {
 // Accessing object properties
 console.log(person.name); // Logs: Alice
 console.log(person.age); // Logs: 30
+console.log(person);
 
 // Example 2
 const student = {
