@@ -2,7 +2,7 @@
     text-decoration: line-through;
     color: green;
 }
-button {
+li button {
     display: none;
 }
 
