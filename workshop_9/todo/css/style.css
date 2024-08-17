@@ -1,0 +1,16 @@
+.done span {
+    text-decoration: line-through;
+    color: green;
+}
+button {
+    display: none;
+}
+
+li {
+    display: flex;
+    gap: 1rem;
+}
+
+li:hover button {
+    display: block;
+}
