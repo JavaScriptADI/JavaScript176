@@ -8,9 +8,11 @@ window.addEventListener('mousemove', (e) => {
     // document.body.style.backgroundColor = `rgb(${e.clientX % 255}, ${e.clientY % 255}, ${(e.clientY + e.clientX) % 255})`;
 });
 
-
+const div = document.querySelector('div');
 const p = document.createElement('p');
 p.innerText = 'Text';
+
+div.appendChild(p);
 
 document.body.appendChild(p);
 console.log(p);
