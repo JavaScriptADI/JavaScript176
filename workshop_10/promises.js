@@ -3,6 +3,7 @@ const getData = new Promise((res, rej) => {
     setTimeout(
         () => {
             const num = Math.random() * 100;
+
             if (num < 50){
                 rej(num);
             } else {
@@ -18,6 +19,6 @@ const getData = new Promise((res, rej) => {
 getData
     .then(
         (data) => console.log('success', data),
-        (error) => console.log('error', error)
+        // (error) => console.log('error', error)
     )
-    // .catch((error) => console.log('error', error));
+    .catch((error) => console.log('error', error));
