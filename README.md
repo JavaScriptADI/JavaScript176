@@ -17,6 +17,7 @@
 - [Assignment 6](https://classroom.github.com/a/roN3yXto)
 - [Assignment 7](https://classroom.github.com/a/jbJCPOFw)
 - [Assignment 8](https://classroom.github.com/a/BwtrTw_Y)
+- [Final Project](https://classroom.github.com/a/gJFClIR5)
 
 ### Table of Contents
 - [Introduction](./docs/introduction.md)
